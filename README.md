@@ -1,6 +1,3 @@
-## Hi there 👋, I'm Nanjunda Rao
-Core Banking Solution Architect with over 19 years of experience
-
 <h1 align="center">Hi 👋, I'm Nanjunda Rao</h1>
 <h3 align="center">Core Banking Solution Architect with over 19 years of experience</h3>
 <h3 align="center">Java | Spring Boot | Microservices | Cloud | Kafka</h3>
