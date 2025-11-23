@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Nanjunda Rao
+Core Banking Solution Architect with over 19 years of experience
 
 <!--
 **nanjundasr/nanjundasr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
