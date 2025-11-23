@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nanjunda Rao</h1>
 <h3 align="center">Core Banking Solution Architect with over 19 years of experience</h3>
-<h3 align="center">Java | Spring Boot | Microservices | Cloud | Kafka</h3>
+<h3 align="center">Java | Spring Boot | Microservices | Cloud | Kafka | Oracle | Docker</h3>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently exploring **AI, LLMs, RAG & Agentic Systems**
+- 🌱 Currently learning **Python and AI**
 <!-- - 💼 All my projects are available on GitHub  -->
 - 📫 Reach me at **nanjunda.im4u@gmail.com**
 
